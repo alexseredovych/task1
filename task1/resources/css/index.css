@@ -1,0 +1,18 @@
+body {
+    background-image: url(https://pics.freeartbackgrounds.com/fullhd/Sea_Water_Texture-1050.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    color: whitesmoke;
+    padding: 20px;
+}
+
+.container {
+    float: left;
+    margin: 0px 600px;
+    background-color: rgba(71, 67, 67, 0.75);
+}
